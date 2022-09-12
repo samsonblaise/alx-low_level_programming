@@ -1,15 +1,13 @@
 #include <stdio.h>
 
 /**
- * This program prints main 
+ * main - print the program
  *
  * Return: 0 if succesfull
  */
-
-int main (void)
-
+int main(void)
 {
 	printf("With the proper, but the outcome is a piece of art,\n");
-	return(0);
+	return (0);
 
 }
