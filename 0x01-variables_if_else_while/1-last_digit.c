@@ -1,10 +1,11 @@
 #include <time.h>
 #include <stdio.h>
+/* more headers goes there */
+
+/* betty style doc for function main goes there*/
 /**
- * main - this program prints the entry point
+ * main - Entry point
  *
- * Description: using the main function
- * the prints entry point
  * Return: Always 0 (successful)
  */
 
