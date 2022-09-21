@@ -17,4 +17,4 @@ void _puts(char *str)
 		t++;
 	}
 	putchar(16);
-}		
+}
