@@ -4,17 +4,19 @@
 /**
  * _puts - function that prints a string followed by a new line
  * @str: pointer that point the string to print
- * Return: return no error
+ *
+ * Description: prints a string
+ * On success: return no error
  */
 
 void _puts(char *str)
 {
-	int t = 0;
+	int i = 0;
 
-	while (*(str + t) != '\0')
+	while (*(str + i) != '\0')
 	{
-		putchar(*(str + t));
-		t++;
+		putchar(*(str + i));
+		i++;
 	}
-	putchar(16);
+	putchar(10);
 }
