@@ -5,6 +5,7 @@
  * puts2 - function that prints every other character of a string
  * @str - string
  *
+ * Description: print a string
  * Return: nothing
  */
 
